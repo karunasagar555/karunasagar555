@@ -2,7 +2,7 @@
 
 <img src="https://profile-counter.glitch.me/KRISHNA9964//count.svg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=48&pause=1000&color=F78C48&width=701&height=80&lines=Hey!++I+Am+Krishna;I+Am+A+Full+Stack+Developer;Also+A+Coding+Enthusiast;Thank+You+For+Visiting+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=48&pause=1000&color=F78C48&width=701&height=80&lines=Hey!++I+Am+Karunasagar;I+Am+A+Full+Stack+Developer;Also+A+Coding+Enthusiast;Thank+You+For+Visiting+My+Profile)](https://git.io/typing-svg)
 <p>
 <img src="text.png" alt="text" />
 <img src="dark-gif1-300.gif" alt="gif" />
